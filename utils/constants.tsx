@@ -4,7 +4,7 @@ import { FaPaw, FaMedal, FaGamepad } from 'react-icons/fa';
 
 export const topics = [
   {
-    name: 'development',
+    name: 'coding',
     icon: <BsCode />,
   },
   {
@@ -20,7 +20,7 @@ export const topics = [
     icon: <GiCakeSlice />,
   },
   {
-    name: 'dance',
+    name: 'music',
     icon: <GiGalaxy />,
   },
   {
